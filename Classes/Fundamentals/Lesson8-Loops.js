@@ -10,7 +10,7 @@
 // {
 //     console.log("Hi there!");
 //     console.log("Exit?");
-      //c=
+//     //   c++;
 // }
 
 let names=["Sid","Sand","Krit","Ram","Sita"];

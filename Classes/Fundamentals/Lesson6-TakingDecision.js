@@ -4,10 +4,10 @@
 // {
 //     let y=60; //block scope
 //     console.log();
-//     // if(true)
-//     // {
-//     //     var z=34; //functional scope
-//     // }
+//     if(true)
+//     {
+//         var z=34; //functional scope
+//     }
 // }
 // else if(x<70)
 // {

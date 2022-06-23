@@ -16,3 +16,4 @@ dfgdfgdf"
 //String Interpolation
 
 console.log(`My college is ${a+b}`);
+console.log(`My name is ${para}`);
